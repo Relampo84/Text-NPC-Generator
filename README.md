@@ -5,11 +5,11 @@ This repository contains a Python program with which you can generate basic NPCs
 <p align="center">
   <img src="images/Main_menu.png" />
 </p>
-These seeds are created in a way that ensures their exclusivity, by adding the seed (which is the part used to rebuild the npc) and a number that increases per generation.
+By adding the seed (the part used to rebuild the npc) and a number that increases per generation the exclusivity of each ID is garanteed.
 
 <p align="center">
   <img src="images/Frame.png" />
 </p>
 
 ## TL;DR
-**This program allows you to create npcs and store them in a csv file as encoded seeds, which you can later reconstruct.**
+**This program allows you to create npcs and store them in a csv file as encoded seeds that you can later reconstruct.**
